@@ -16,6 +16,9 @@
   "targetDependencies": {
     "stm32f4": {
       "cmsis-core-stm32f4": "~0.2.0"
+    },
+	"stm32f0": {
+      "cmsis-core-stm32f0": "~0.0.0"
     }
   }
 }
